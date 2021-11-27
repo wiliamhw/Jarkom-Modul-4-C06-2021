@@ -31,18 +31,17 @@ Berdasarkan total IP dan netmask yang dibutuhkan, kita dapat menggunakan netmask
 [Link Video Pengecekan Rute](https://www.youtube.com/watch?v=VQ4zUI2XL3o)
 
 ## Perhitungan CIDR
-- Melakukan Pembagian Subnet terhadap topologi.
+1. Melakukan Pembagian Subnet terhadap topologi.
 ![subnetting](https://user-images.githubusercontent.com/55136116/143671389-4c932f60-5645-40c0-a8d8-4cb348d669c1.jpg)
 
-- Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling netmask berdasarkan jumlah IP.
-
+2. Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling netmask berdasarkan jumlah IP.
 ![akhir](https://user-images.githubusercontent.com/55136116/143684441-8e57dd0a-0d2b-4c69-92f8-1695c8797454.jpg)
 ![image](https://user-images.githubusercontent.com/55136116/143671504-710ece8e-74be-4e5b-be69-471ad86098b8.png)
 
-- Subnet besar yang dibentuk memiliki NID 10.17.0.0 dengan netmask /16. Hitung pembagian IP berdasarkan NID dan netmask menggunakan pohon subnet
+3. Subnet besar yang dibentuk memiliki NID 10.17.0.0 dengan netmask /16. Hitung pembagian IP berdasarkan NID dan netmask menggunakan pohon subnet
 ![Untitled](https://user-images.githubusercontent.com/55136116/143671430-cbe5bd4e-9a91-4b52-bec8-ab58592954c7.jpg)
 
-Dari pohon subnet tersebut, akan mendapat pembagian IP sebagai berikut:
+4. Dari pohon subnet tersebut, akan mendapat pembagian IP sebagai berikut:
 ![image](https://user-images.githubusercontent.com/55136116/143671456-9368e8ce-576a-4c1a-bd90-a674f9957c5b.png)
 
 ## Kendala
