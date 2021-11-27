@@ -36,6 +36,7 @@ Berdasarkan total IP dan netmask yang dibutuhkan, kita dapat menggunakan netmask
 
 - Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling netmask berdasarkan jumlah IP.
 
+![akhir](https://user-images.githubusercontent.com/55136116/143684441-8e57dd0a-0d2b-4c69-92f8-1695c8797454.jpg)
 ![image](https://user-images.githubusercontent.com/55136116/143671504-710ece8e-74be-4e5b-be69-471ad86098b8.png)
 
 - Subnet besar yang dibentuk memiliki NID 10.17.0.0 dengan netmask /16. Hitung pembagian IP berdasarkan NID dan netmask menggunakan pohon subnet
