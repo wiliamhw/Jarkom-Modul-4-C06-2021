@@ -26,3 +26,8 @@ Dari pohon subnet tersebut, akan mendapat pembagian IP sebagai berikut:
 
 
 ## Perhitungan CIDR
+- Melakukan Pembagian Subnet terhadap topologi.
+
+- Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling netmask berdasarkan jumlah IP.
+
+Dari pohon subnet tersebut, akan mendapat pembagian IP sebagai berikut:
