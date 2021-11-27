@@ -36,3 +36,6 @@ Berdasarkan total IP dan netmask yang dibutuhkan, kita dapat menggunakan netmask
 - Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling netmask berdasarkan jumlah IP.
 
 Dari pohon subnet tersebut, akan mendapat pembagian IP sebagai berikut:
+
+## Kendala
+* Kesulitan saat menentukan static routing yang tepat di bagian VLSM.
